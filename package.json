@@ -1,0 +1,10 @@
+{
+  "name": "sbadmin-ng",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "coffee server.coffee"
+  },
+  "dependencies": {
+    "americano": "0.4.2"
+  }
+}
